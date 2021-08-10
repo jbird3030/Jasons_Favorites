@@ -1,3 +1,4 @@
 # Jasons_Favorites
  
-#Website writting in HTML to use as a skills showcase
+Fansite made using HTML
+
